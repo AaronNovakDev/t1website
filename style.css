@@ -1,0 +1,31 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.aaron {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    border: 5px lightgreen solid;
+  }
+
