@@ -1,8 +1,8 @@
 
-body {
+ body {
     display: flex;
     flex-direction: column;
-    background-color: darkolivegreen;
+    background-color: steelblue;
 }
 
 .logo {
@@ -20,6 +20,8 @@ body {
 nav {
     display: flex;
     justify-content: space-around;
+    font-size: x-large;
+
 
 }
 .menu {
@@ -32,21 +34,26 @@ nav {
   .blog {
       display: flex;
       justify-content: space-evenly;
+      
   }
 
   .work {
       display: flex;
       justify-content: space-evenly;
+      flex-wrap: wrap;
+
   }
 
   .blog2 {
       display: flex;
       justify-content: space-evenly;
+      flex-wrap: wrap;
   }
 
   .about {
       display: flex;
       justify-content: space-between;
+      flex-wrap: wrap;
   }
 
   .resume {
@@ -54,3 +61,9 @@ nav {
       align-items: flex-end;
 
   }
+
+  .footer {
+      display: flex;
+      flex-direction: column-reverse;
+  }
+
