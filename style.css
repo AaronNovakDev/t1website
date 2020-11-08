@@ -14,7 +14,8 @@
 .aaron {
     display: flex;
     justify-content: center;
-    padding: 5px;
+    padding: 25px;
+    flex-wrap: wrap;
 }
 
 nav {
@@ -29,11 +30,13 @@ nav {
     justify-content: center;
     background-color: grey;
     border: 5px lightgreen solid;
+    font-family: monospace;
   }
 
   .blog {
       display: flex;
       justify-content: space-evenly;
+      flex-wrap: wrap;
       
   }
 
@@ -65,5 +68,15 @@ nav {
   .footer {
       display: flex;
       flex-direction: column-reverse;
+      font-size: x-large;
+      font-family: cursive;
+
   }
 
+ .aaronblog {
+     display: flex;
+     font-size: xx-large;
+     flex-wrap: wrap;
+     font-family: monospace;
+     
+ }
