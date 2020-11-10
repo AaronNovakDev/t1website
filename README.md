@@ -1,11 +1,11 @@
 #AARONNOVAK_T1A1#
 
 **Link to my published portfolio website!**
-www
+https://aaronnovakdevelopements.netlify.app/
 
 
 **GitHub Repo Link**
-www.
+https://github.com/AaronNovakDevelopements
 
 **Portfolio Desrciption**
 *Purpose*
