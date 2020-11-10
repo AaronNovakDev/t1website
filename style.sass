@@ -1,7 +1,17 @@
+@media only screen and (min-width: 320px) and (max-width: 960px) {
+  body, .logo, .aaron, .menu, .blog, .work, nav, .blog2, .about {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 961px) {
+  body, .logo, .aaron, .menu, .blog, .work, nav, .blog2, .about {
+    width: 100%;
+  }
+}
 body {
   display: flex;
   flex-direction: column;
-  background-color: darkolivegreen;
+  background-color: steelblue;
 }
 
 .logo {
@@ -13,12 +23,14 @@ body {
 .aaron {
   display: flex;
   justify-content: center;
-  padding: 5px;
+  padding: 25px;
+  flex-wrap: wrap;
 }
 
 nav {
   display: flex;
   justify-content: space-around;
+  font-size: x-large;
 }
 
 .menu {
@@ -26,32 +38,50 @@ nav {
   justify-content: center;
   background-color: grey;
   border: 5px lightgreen solid;
+  font-family: monospace;
 }
 
 .blog {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .work {
   display: flex;
   justify-content: space-evenly;
-  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .blog2 {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .about {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .resume {
   display: flex;
   align-items: flex-end;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column-reverse;
+  font-size: x-large;
+  font-family: cursive;
+}
+
+.aaronblog {
+  display: flex;
+  font-size: xx-large;
+  flex-wrap: wrap;
+  font-family: monospace;
 }
 
 /*# sourceMappingURL=style.sass.map */
