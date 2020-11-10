@@ -1,4 +1,8 @@
 
+  // .background {
+     // background-image: url("/mnt/c/users/user/coder_academy/t1a1/t1website/images/italy.jpg/images/italy.jgp");
+
+  }
  body {
     display: flex;
     flex-direction: column;
@@ -79,4 +83,12 @@ nav {
      flex-wrap: wrap;
      font-family: monospace;
      
+ }
+
+ .heading1 {
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     align-items: center;
+
  }
