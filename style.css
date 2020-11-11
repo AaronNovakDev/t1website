@@ -8,9 +8,17 @@
     width: 50; }
 }
 
+<<<<<<< HEAD
 
 
 body {
+=======
+  // .background {
+     // background-image: url("/mnt/c/users/user/coder_academy/t1a1/t1website/images/italy.jpg/images/italy.jgp");
+
+  }
+ body {
+>>>>>>> 65260bebb263d3a66479cfbc4e0b1f21e8c5367b
     display: flex;
     flex-direction: column;
     background-color: steelblue;
@@ -92,3 +100,13 @@ nav {
      
  }
 
+<<<<<<< HEAD
+=======
+ .heading1 {
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     align-items: center;
+
+ }
+>>>>>>> 65260bebb263d3a66479cfbc4e0b1f21e8c5367b
