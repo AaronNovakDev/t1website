@@ -1,11 +1,11 @@
 #AARONNOVAK_T1A1#
 
 **Link to my published portfolio website!**
-www
+https://aaronnovakdevelopements.netlify.app/
 
 
 **GitHub Repo Link**
-www.
+https://github.com/AaronNovakDevelopements
 
 **Portfolio Desrciption**
 *Purpose*
@@ -25,5 +25,6 @@ My target audience is those at Coder Academy for the marking of my portfolio ass
 
 *Tech Stack*
 Through-out the portfolio i used HTML & CSS as I am fairly competenant in those and I feel the product i have delivered meets the criteria, it may not be the prettiest but i feel its robust and extremely easy to navigate and it also is a finished product. In future I would love to add more style and I can really make this look good.
-Its deployed on the referred netlify site as its free and easy to use.
+Its deployed on the referred netlify site as its free and easy to use and it was recommended by Coder Academy.
+
 

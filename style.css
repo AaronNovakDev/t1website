@@ -1,35 +1,42 @@
+@media only screen and  (min-width: 320px) and (max-width: 960px) {
+    body, .logo, .aaron, .menu, .blog, .work, nav, .blog2, .about {
+    width: 100%; }
+}
 
-  // .background {
-     // background-image: url("/mnt/c/users/user/coder_academy/t1a1/t1website/images/italy.jpg/images/italy.jgp");
+@media only screen and (min-width: 961px) {
+    body, .logo, .aaron, .menu, .blog, .work, nav, .blog2, .about  {
+    width: 100%; }
+}
 
-  }
+
  body {
+
     display: flex;
     flex-direction: column;
     background-color: steelblue;
 }
 
-.logo {
+ .logo {
     display: flex;
     justify-content: center;
     color: black;
 }
 
-.aaron {
+ .aaron {
     display: flex;
     justify-content: center;
     padding: 25px;
     flex-wrap: wrap;
 }
 
-nav {
+ nav {
     display: flex;
     justify-content: space-around;
     font-size: x-large;
 
 
 }
-.menu {
+ .menu {
     display: flex;
     justify-content: center;
     background-color: grey;
@@ -92,3 +99,4 @@ nav {
      align-items: center;
 
  }
+
