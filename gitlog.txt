@@ -1,0 +1,102 @@
+commit a046173310be93741169e4ab46c99cd6da9dac1c
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Thu Nov 12 15:24:23 2020 +1000
+
+    OMG I THINK I FORGOT SOMETHING
+
+commit 2ac845eeff2243d03324d6d5bd8d2a818d0a9d69
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Thu Nov 12 14:45:21 2020 +1000
+
+    many many changes to style
+
+commit 688856ae05c0d0098827f28fea000f6edfeb140c
+Merge: 65260be b0ac9e1
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Wed Nov 11 20:25:39 2020 +1000
+
+    final commit before class
+
+commit b0ac9e1d374bdc98b48055d38831260245c803d4
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Wed Nov 11 18:13:36 2020 +1000
+
+    wtf
+
+commit c5a5f127029aad1091ed190ffca44287cc81619d
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Tue Nov 10 22:17:21 2020 +1000
+
+    what is happeneing just work
+
+commit 65260bebb263d3a66479cfbc4e0b1f21e8c5367b
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Tue Nov 10 22:06:56 2020 +1000
+
+    fixed spelling
+
+commit b9ff1ccbbd9f0a236359f3ca15ab64462bc8751d
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Tue Nov 10 21:34:10 2020 +1000
+
+    added blogs and blog links
+
+commit c187ef5c361b7f47365e90e34d5f21e11b485fdc
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Tue Nov 10 20:35:07 2020 +1000
+
+    added media sass
+
+commit a65dbe0924f44a05265cb3bcd795e6e08f2b46f4
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Tue Nov 10 18:29:26 2020 +1000
+
+    added another readme for the slides
+
+commit ddf90a5199efde9751cdd59201fcbd010a7fa22f
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Tue Nov 10 18:16:46 2020 +1000
+
+    fixed picture link
+
+commit d96774dbdeb3a5db03ee9bad9eaa47ad5e62067c
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Sun Nov 8 17:30:08 2020 +1000
+
+    trying to upload
+
+commit e35356ce254ca72c186cf0245b690de6c31e3bd2
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Sun Nov 8 14:12:44 2020 +1000
+
+    bit more style
+
+commit 09940d23c344623380683eaba6af0f25bed27e5b
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Sun Nov 8 13:00:28 2020 +1000
+
+    started readme
+
+commit 7c773052e19e36ce0e5eeba941e23351162f2136
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Sun Nov 8 12:36:45 2020 +1000
+
+    added more style and wraps
+
+commit e220d02c81eb5faa87c5ba75bcacebdef0f7553b
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Sat Nov 7 21:38:11 2020 +1000
+
+    more photos looking decent
+
+commit 38bbad825ba2d273834c74189a6327820b657390
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Sat Nov 7 20:59:00 2020 +1000
+
+    added pictures
+
+commit ee40cf17572bd432b92e64e9fc5ab2596e1917f7
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Sat Nov 7 15:18:55 2020 +1000
+
+    work you botch

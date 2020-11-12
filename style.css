@@ -23,6 +23,7 @@ nav {
   justify-content: space-around;
   font-family: monospace;
   font-size: xx-large;
+  flex-wrap: wrap;
 }
 
 .menu {
