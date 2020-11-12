@@ -1,36 +1,30 @@
-@media only screen and (min-width: 320px) and (max-width: 960px) {
-  body, .logo, .aaron, .menu, .blog, .work, nav, .blog2, .about {
-    width: 100%;
-  }
-}
-@media only screen and (min-width: 961px) {
-  body, .logo, .aaron, .menu, .blog, .work, nav, .blog2, .about {
-    width: 100%;
-  }
-}
 body {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   background-color: steelblue;
 }
 
-.logo {
-  display: flex;
-  justify-content: center;
-  color: black;
-}
+ .about {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+ }
 
-.aaron {
+
+ .aaron {
   display: flex;
   justify-content: center;
-  padding: 25px;
-  flex-wrap: wrap;
+  padding: 50px;
+  border: black 2px;
+   
 }
 
 nav {
   display: flex;
   justify-content: space-around;
   font-size: x-large;
+  font-family: monospace;
 }
 
 .menu {
@@ -40,55 +34,72 @@ nav {
   border: 5px lightgreen solid;
   font-family: monospace;
 }
-
-.blog {
-  display: flex;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-}
+ 
 
 .work {
   display: flex;
   justify-content: space-evenly;
-  flex-wrap: wrap;
-}
-
-.blog2 {
-  display: flex;
-  justify-content: space-evenly;
+  align-items: center;
   flex-wrap: wrap;
 }
 
 .about {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   flex-wrap: wrap;
 }
 
 .resume {
   display: flex;
-  align-items: flex-end;
 }
 
 .footer {
   display: flex;
-  flex-direction: column-reverse;
+  justify-content: center;
   font-size: x-large;
   font-family: cursive;
+  
 }
 
 .aaronblog {
   display: flex;
-  font-size: xx-large;
+  align-items: center;
   flex-wrap: wrap;
-  font-family: monospace;
 }
 
 .heading1 {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  align-items: center;
+
 }
 
+ .blog1 {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+ }
+
+ .blog2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.blog3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.blog4 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.caption {
+  display: block;
+}
 /*# sourceMappingURL=style.sass.map */
