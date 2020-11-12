@@ -14,15 +14,15 @@ body {
 .aaron {
   display: flex;
   justify-content: center;
-  padding: 50px;
+  padding: 10px;
   border: black 2px;
 }
 
 nav {
   display: flex;
   justify-content: space-around;
-  font-size: x-large;
   font-family: monospace;
+  font-size: xx-large;
 }
 
 .menu {
@@ -48,6 +48,7 @@ nav {
 
 .resume {
   display: flex;
+  justify-content: center;
 }
 
 .footer {
