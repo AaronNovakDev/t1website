@@ -32,14 +32,22 @@ nav {
 }
 
 //This is the styling for the main section of each page, just gave it a nice transition of colours and boreders.
-.menu {
+.menu1 {
   display: flex;
   justify-content: center;
   background-color: grey;
   border: 5px lightgreen solid;
-  font-family: monospace;
+  font-family: cursive;
 }
  
+.menu2 {
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+  border: 5px lightgreen solid;
+  font-family: cursive;
+}
+
 //This is the style for my pictures on the work page, ive just spaced them evenly.
 .work {
   display: flex;

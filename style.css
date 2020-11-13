@@ -26,12 +26,20 @@ nav {
   flex-wrap: wrap;
 }
 
-.menu {
+.menu1 {
   display: flex;
   justify-content: center;
   background-color: grey;
   border: 5px lightgreen solid;
-  font-family: monospace;
+  font-family: cursive;
+}
+
+.menu2 {
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+  border: 5px lightgreen solid;
+  font-family: cursive;
 }
 
 .work {
