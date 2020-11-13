@@ -32,6 +32,14 @@ nav {
 }
 
 //This is the styling for the main section of each page, just gave it a nice transition of colours and boreders.
+.menu {
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+  border: 5px lightgreen solid;
+  font-family: cursive;
+}
+
 .menu1 {
   display: flex;
   justify-content: center;
@@ -78,7 +86,7 @@ nav {
 
 .aaronblog {
   display: flex;
-  align-items: center;
+  justify-content: center;
   flex-wrap: wrap;
 }
 

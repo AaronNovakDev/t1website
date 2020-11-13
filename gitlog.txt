@@ -1,3 +1,15 @@
+commit 15dda87f4bfc8191b5449f47819731e498396313
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Fri Nov 13 13:05:09 2020 +1000
+
+    final commit not too happy
+
+commit 0dc7c1346eaf81c486fbf5a84b8145bcbfd96cce
+Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
+Date:   Thu Nov 12 15:42:57 2020 +1000
+
+    flex wrap nav
+
 commit a046173310be93741169e4ab46c99cd6da9dac1c
 Author: Aaron Novak <Aaronnovakdevelopements@gmail.com>
 Date:   Thu Nov 12 15:24:23 2020 +1000
