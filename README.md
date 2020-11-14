@@ -19,7 +19,7 @@ https://github.com/AaronNovakDevelopements
 
 *SiteMap*
 
-Sitemap is attached in the zipped file
+(sitemap)[../images/sitemap.jpg])
 
 
 *ScreenShots*

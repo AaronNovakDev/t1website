@@ -1,28 +1,23 @@
-// The main body style, its just mainly to add the color from the standard white page color.
 body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   background-color: steelblue;
-
 }
 
- .about {
-   display: flex;
-   justify-content: center;
-   flex-wrap: wrap;
- }
+.about {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
-//This is the style for the picture of myself, basically just gave it some padding and centered.
- .aaron {
+.aaron {
   display: flex;
   justify-content: center;
   padding: 10px;
   border: black 2px;
-   
 }
- 
- // This is the style for the navigation buttons on my page //
+
 nav {
   display: flex;
   justify-content: space-around;
@@ -31,7 +26,6 @@ nav {
   flex-wrap: wrap;
 }
 
-//This is the styling for the main section of each page, just gave it a nice transition of colours and boreders.
 .menu {
   display: flex;
   justify-content: center;
@@ -40,7 +34,6 @@ nav {
   font-family: cursive;
 }
 
-// These next few are the styling on my menu
 .menu1 {
   display: flex;
   justify-content: center;
@@ -48,7 +41,7 @@ nav {
   border: 5px lightgreen solid;
   font-family: cursive;
 }
- 
+
 .menu2 {
   display: flex;
   justify-content: center;
@@ -57,7 +50,6 @@ nav {
   font-family: cursive;
 }
 
-//This is the style for my pictures on the work page, ive just spaced them evenly.
 .work {
   display: flex;
   justify-content: space-evenly;
@@ -76,13 +68,11 @@ nav {
   justify-content: center;
 }
 
- //This is the footer style which I changed the font family and to a larger more readable size.
 .footer {
   display: flex;
   justify-content: center;
   font-size: x-large;
   font-family: cursive;
-  
 }
 
 .aaronblog {
@@ -91,22 +81,19 @@ nav {
   flex-wrap: wrap;
 }
 
-//This is the heading style, just centred and wraps down for mobile devices.
 .heading1 {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-
-
 }
-// These are my blog pictures, ive centered each one so it sits nicely on any screen.
- .blog1 {
-   display: flex;
-   flex-wrap: wrap;
-   justify-content: center;
- }
 
- .blog2 {
+.blog1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.blog2 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -124,8 +111,8 @@ nav {
   justify-content: center;
 }
 
-
 .caption {
   display: block;
 }
+
 /*# sourceMappingURL=style.sass.map */
